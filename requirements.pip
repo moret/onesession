@@ -1,0 +1,4 @@
+paver>=1.0
+tornado>=2.0
+python-daemon>=1.6
+lockfile>=0.9.1
